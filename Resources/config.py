@@ -1,1 +1,1 @@
-gkey = "Insert your key here!"
+gkey = "AIzaSyBnfExQzM6aBNMR-yKvThSqlNNX2p34DkY"
